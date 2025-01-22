@@ -1,6 +1,6 @@
 # IDA-Litepaper
 
-![Upper Level view](https://turquoise-obvious-guanaco-391.mypinata.cloud/ipfs/bafybeif6zzvqzedyixlqbyrzeismfapw7tylpin2hptlfk4i5qjskeul6e)
+![Upper Level view](https://turquoise-obvious-guanaco-391.mypinata.cloud/ipfs/bafybeidpre7o75yjuhl64mbgipal5v5ef36rv4m6hiefk6i47kddndjcie)
 
 Providing personalized health recommendations based on an integrated analysis of data collected from various sources.
 
