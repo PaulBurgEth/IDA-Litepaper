@@ -6,7 +6,7 @@
 
 ---
 
-### David's User Journey with IDA
+### David's User Journey with VitaCrypt
 David, a 25-year-old living in Los Angeles, faces unique health challenges shaped by his environment, genetics, and lifestyle. High levels of fine particulate matter (PM2.5) in the city’s air and his genetic predisposition to inflammation and cardiovascular issues place him in a "sensitive" group. Chronic stress further disrupts his gut microbiome, leading to deficiencies in essential nutrients like B vitamins, which his body struggles to absorb efficiently due to genetic markers.
 
 ### The Role of VitaCrypt
